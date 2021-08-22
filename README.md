@@ -3,6 +3,8 @@ Running Jupyter notebooks programmatically.  There are a number if cases where y
 
 You can achive such goals using `papermill` and `airflow` or even simpe cron jobs.
 
+To learn more about `papermill` Python librray, you can visit their [repository](https://github.com/nteract/papermill).
+
 ## Requirements 
 Setting up your Uatu conda environment: `conda create -n pmill python=3.6`
 
